@@ -1,0 +1,26 @@
+Employee_name,Employee_ID,Designation,Grade,Allocation,MandatorySkill,Skills_matched,Skill.name,Available_After,Email_ID,PrimarySkill,SectorLead,SectorLead_Email,Supervisor,Supervisor_Email,Status,Remarks,Link_To_CV,Total_Skills_Searched,Total_Skills_Matched,Score,SkillsSearched
+Nirali Vora,21124,Senior Consultant,C1,Allocated,Insurance Sector,1,Testing,,,,,,,,,,,,,,
+,,,,,,,Insurance Sectors,,,,,,,,,,,,,,
+,,,,,,,Jira,,,,,,,,,,,,,,
+,,,,,,,"(consulting) - Business Analysis, Requirements",,,,,,,,,,,,,,
+,,,,,,,Financial Services,,,,,,,,,,,,,,
+,,,,,,,Testing,,,,,,,,,,,,,,
+,,,,,,,Jira,,,,,,,,,,,,,,
+,,,,,,,"Consulting - Business Analysis, Requirements",16-12-20,nirali.vora@example.com,"(Consulting) - Business Analysis, Requirements",Barbara Hindley,barbara.hindley@example.com,Ealasaid Heape,ealasaid.heape@example.com,,,http://51.11.164.117:35011/static/resume/Nirali_Vora.pptx,1,1,100,"'insurance sector',"
+Abel Tuter,26845,Senior Consultant,C1,Allocated,Insurance Sector,1,Oracle,,,,,,,,,,,,,,
+,,,,,,,Testing,,,,,,,,,,,,,,
+,,,,,,,Sql,,,,,,,,,,,,,,
+,,,,,,,Informatica,,,,,,,,,,,,,,
+,,,,,,,Financial Services,,,,,,,,,,,,,,
+,,,,,,,Informatica Bi,,,,,,,,,,,,,,
+,,,,,,,Sql,,,,,,,,,,,,,,
+,,,,,,,Testing,,,,,,,,,,,,,,
+,,,,,,,Oracle,31-12-20,abel.tuter@example.com,Insurance Sector,Carla Humble,carla.humble@example.com,Cullen Greenlies,cullen.greenlies@example.com,Extension,Probability of Ext 80%,http://51.11.164.117:35011/static/resume/Abel_Tuter.pptx,1,1,100,"'insurance sector',"
+Alejandra Prenatt,20212,Manager,C2,Allocated,Insurance Sector,1,Informatica,,,,,,,,,,,,,,
+,,,,,,,Aws Redshift,,,,,,,,,,,,,,
+,,,,,,,Sql,,,,,,,,,,,,,,
+,,,,,,,Unix,,,,,,,,,,,,,,
+,,,,,,,Informatica Bi,,,,,,,,,,,,,,
+,,,,,,,Sql,,,,,,,,,,,,,,
+,,,,,,,Aws Redshift,,,,,,,,,,,,,,
+,,,,,,,Unix,31-12-20,alejandra.prenatt@example.com,Insurance Sector,Bill Rovel,bill.rovel@example.com,Sande Garn,sande.garn@example.com,,,http://51.11.164.117:35011/static/resume/Alejandra_Prenatt.pptx,1,1,100,"'insurance sector',"
